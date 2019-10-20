@@ -134,6 +134,14 @@
     color: black;
 }
 
+#section-interaction, #section-interaction .item-icon {
+    background-color: sienna;
+    border-color: sienna;
+}
+#section-interaction .text {
+    color: sienna;
+}
+
 #section-bonus-action, #section-bonus-action .item-icon {
     background-color: indigo;
     border-color: indigo;
